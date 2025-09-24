@@ -1,7 +1,7 @@
 import '../App.css'
 import { PageRouter } from "@/PageRouter"
 import { Toaster } from "sonner"
-import { emotions } from "@/lib/config"
+import { emotions } from "./lib/config"
 import { useState } from 'react'
 
 function App() {
@@ -22,7 +22,5 @@ function App() {
     </>
   )
 }
-
-export default App
 
 export default App

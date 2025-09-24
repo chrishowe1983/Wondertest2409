@@ -1,6 +1,6 @@
 import React from 'react';
 import { Home } from '../Home';
-import { AllEmotions } from './AllEmotions';
+import { AllEmotions } from '../AllEmotions';
 import { EmotionPage } from './EmotionPage';
 import { ChristmasPage } from './ChristmasPage';
 import { ChristmasFoodPage } from './ChristmasFoodPage';
