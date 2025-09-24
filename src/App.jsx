@@ -1,6 +1,6 @@
 import '../App.css'
 import { PageRouter } from "@/PageRouter"
-import { Toaster } from "@/components/ui/toaster"
+import { Toaster } from "sonner"
 import { emotions } from "@/lib/config"
 import { useState } from 'react'
 
